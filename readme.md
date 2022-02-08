@@ -24,4 +24,4 @@ Note that if the mininet can not run normally, you can try the command "sudo mn 
   
 ### 4. capture the packets on the specified ports of switches using wireshark.  
   
-If you have any questions, please email to jinbinhu@csu.edu.cn.  
+If you have any questions, please email to jinbinhu@126.com.  
