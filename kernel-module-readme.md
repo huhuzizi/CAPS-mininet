@@ -93,7 +93,7 @@ https://pan.baidu.com/s/1zzm32pk5YKivlKxIB1GCVQ
 Download password： gczb   
 sudo password: master    
   
-If you have any questions, please email to jinbinhu@csu.edu.cn.  
+If you have any questions, please email to jinbinhu@126.com
 
 
 
